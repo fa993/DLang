@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de8ea48c-bd78-424c-9ba0-40c7f72823d5" name="Changes" comment="" />
+    <list default="true" id="de8ea48c-bd78-424c-9ba0-40c7f72823d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in.c" beforeDir="false" afterPath="$PROJECT_DIR$/in.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in.d" beforeDir="false" afterPath="$PROJECT_DIR$/in.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dscvit/in/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dscvit/in/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/dscvit/in/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/dscvit/in/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -76,5 +84,8 @@
       <updated>1679742205414</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.d" />
   </component>
 </project>

@@ -19,6 +19,6 @@ struct asd {
 
 int main() {
 	struct asd r;
-	rrrr(&r);
+	r.r2r2();
 	return 0;
 }
